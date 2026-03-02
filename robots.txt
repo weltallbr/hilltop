@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://weltallbr.github.io/hilltop/sitemap.xml
