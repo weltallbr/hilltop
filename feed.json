@@ -9,5 +9,21 @@
         "name": "Bruno"
     },
     "items": [
+        {
+            "id": "https://weltallbr.github.io/hilltop/hello-world/",
+            "url": "https://weltallbr.github.io/hilltop/hello-world/",
+            "title": "Hello, World",
+            "summary": "This is a placeholder post, which purpose is to help me configure&hellip;",
+            "content_html": "<p>This is a placeholder post, which purpose is to help me configure this blog – but I may as well use it to briefly introduce myself.\nI’ve played TTRPGs when I was a teenager, and then went on a hiatus of around 15 years. When I decided to give it another go, I couldn’t find any group who could take me as a player so I just said <em>what the hell</em> and jumped into GMing. I’ve spent about 5 years GMing two D&amp;D 5e campaigns, until I’ve had enough and decided to move on from it.\nI decided to create this blog because I finally feel like I have something to share with the wider community. I feel like I have a somewhat interesting perspective: I am no longer a noob but neither am I a highly experience GM or a trained designer. I feel like the voices of people professionals and hardcore fans is a bit drowning nowadays in the online TTRPGs community, and the view of someone who is less invested in this hobby – but still invested enough to dedicate himself to write a blog about it – would be a valuable addition to the conversation. </p>",
+            "author": {
+                "name": "Bruno"
+            },
+            "tags": [
+                   "ttrpg",
+                   "intro"
+            ],
+            "date_published": "2026-03-03T21:50:00+13:00",
+            "date_modified": "2026-03-03T21:50:00+13:00"
+        }
     ]
 }
